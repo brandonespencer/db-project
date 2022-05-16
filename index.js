@@ -29,7 +29,7 @@ const db = mysql.createConnection({
 		host: "localhost",
 		user: "root",
 		password: "root",
-		database: project3,
+		database: "project3",
 		port: 3306,
 		multipleStatements: true,
 });
