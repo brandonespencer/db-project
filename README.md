@@ -17,8 +17,8 @@ A social media job search site that allows users, specicially developers, to tal
 * HTML
 * CSS
 * JavaScript
-* MongoDB
-* Mongoose
+* sql
+* mysql
 * Express
 * React
 
@@ -113,3 +113,4 @@ Edited by Brandon, Karaun, and Sara
 &copy; 2022 Group 4
 
 Licensed under the [BSD 2-Clause](LICENSE.txt)
+
